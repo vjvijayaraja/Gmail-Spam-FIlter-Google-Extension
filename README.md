@@ -14,7 +14,8 @@ A modern Chrome extension that enhances email security by providing intelligent 
 
 This project provides an efficient solution for filtering and blocking spam emails in Gmail. The extension automatically detects and filters spam using advanced algorithms, providing a seamless and secure email experience. It features a modern, minimalist interface for an enhanced user experience.
 
-![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/468bce68-cbca-45a0-a746-653f40b2d869)
+
 
 ## Features
 
