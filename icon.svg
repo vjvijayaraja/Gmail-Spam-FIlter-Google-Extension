@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#4f46e5"/>
+            <stop offset="100%" style="stop-color:#6366f1"/>
+        </linearGradient>
+    </defs>
+    <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#iconGradient)"/>
+    <path d="M88 40H40c-4.4 0-8 3.6-8 8v32c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V48c0-4.4-3.6-8-8-8zm0 40H40V56h48v24zm-8-16H48v-4h32v4zm-16 8H48v-4h16v4z" fill="white"/>
+    <rect x="8" y="8" width="112" height="112" rx="28" fill="white" fill-opacity="0.1"/>
+</svg>
