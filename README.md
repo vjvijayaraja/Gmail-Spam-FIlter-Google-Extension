@@ -72,4 +72,10 @@ This project provides an efficient solution for filtering and blocking spam emai
 
 ## Credits
 
-Created by **Vijay Shrivarshan Vijayaraja**
+Created by Vijay Shrivarshan Vijayaraja  
+
+---
+
+<div align="center">
+Made by Vijay Shrivarshan Vijayaraja
+</div>
