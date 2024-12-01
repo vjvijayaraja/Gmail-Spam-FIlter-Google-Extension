@@ -1,4 +1,4 @@
-# Gmail AI Spam Filter
+# Gmail Spam Filter
 
 A modern Chrome extension that enhances email security by providing intelligent spam detection and filtering for Gmail.
 
